@@ -1,5 +1,6 @@
 const jwt=require("jsonwebtoken")
-const { User } = require("../model/user")
+// const { User } = require("../model/user")
+const { User } = require("../model/User")
 const Secreat_Key="himynameisroshen"
 
 const fetchuser =async (req,res,next) =>{

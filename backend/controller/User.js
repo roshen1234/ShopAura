@@ -1,5 +1,5 @@
-const { User } = require("../model/user")
-
+// const { User } = require("../model/user")
+const { User } = require("../model/User")
 
 exports.fetchLoggedInUser=async(req,res)=>{
    const id=req.user;

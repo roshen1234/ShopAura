@@ -1,4 +1,5 @@
-const { User } = require("../model/user")
+// const { User } = require("../model/user")
+const { User } = require("../model/User")
 const jwt=require("jsonwebtoken")
 const bycrypt=require("bcryptjs")
 const Secreat_Key="himynameisroshen"
