@@ -81,23 +81,23 @@ The frontend uses Redux Toolkit to manage application state and communicate with
 
 | Product listing | Product details |
 |---|---|
-| ![Product listing](https://placehold.co/900x520?text=Product+Listing+Screenshot) | ![Product details](https://placehold.co/900x520?text=Product+Details+Screenshot) |
+| <img src="screenshots/Product%20Listing.png" width="400" height="250" /> | <img src="screenshots/Product%20Details.png" width="400" height="250" /> |
 
 ### Shopping and checkout
 
 | Shopping cart | Checkout |
 |---|---|
-| ![Shopping cart](https://placehold.co/900x520?text=Shopping+Cart+Screenshot) | ![Checkout](https://placehold.co/900x520?text=Checkout+Screenshot) |
+| <img src="screenshots/shopping%20cart.png" width="400" height="250" /> | <img src="screenshots/checkout.png" width="400" height="250" /> |
 
 ### Account and administration
 
-| Login / Signup | Admin dashboard |
-|---|---|
-| ![Authentication](https://placehold.co/900x520?text=Login+and+Signup+Screenshot) | ![Admin dashboard](https://placehold.co/900x520?text=Admin+Dashboard+Screenshot) |
+| Admin dashboard |
+|---|
+| <img src="screenshots/admin%20dashboard.png" width="400" height="250" /> |
 
 | Order history | Product management |
 |---|---|
-| ![Order history](https://placehold.co/900x520?text=Order+History+Screenshot) | ![Product management](https://placehold.co/900x520?text=Product+Management+Screenshot) |
+| <img src="screenshots/order%20History.jpeg" width="400" height="250" /> | <img src="screenshots/product%20management.png" width="400" height="250" /> |
 
 ---
 
